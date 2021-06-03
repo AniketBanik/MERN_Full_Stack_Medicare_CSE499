@@ -12,11 +12,10 @@ const Doc = require('../../models/doc');
 
 
 
-<<<<<<< HEAD
+
 
 //@route api/auth
-=======
->>>>>>> 0c03d20b488d2491df427f6e52a82fb7c2294aff
+
 //@route  api/auth
 //@desc Test route
 //@access public
@@ -33,11 +32,7 @@ router.get('/', authdoc , async(req,res)=> {
         res.status(500).send('Server Error');
 
     }
-<<<<<<< HEAD
 } );                                                //res.send('Auth route'))here;
-=======
-} );                                                //res.send('Auth route'));
->>>>>>> 0c03d20b488d2491df427f6e52a82fb7c2294aff
 
 
 //from doc.js copy
