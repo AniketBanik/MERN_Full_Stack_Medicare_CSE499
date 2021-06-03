@@ -9,7 +9,8 @@ Mainly, I learned how react works, how backend can be connected with react, how 
 ![eg](https://user-images.githubusercontent.com/74258853/120633664-36df4700-c48c-11eb-92cf-8fb2d21a6411.JPG)
 ![ek](https://user-images.githubusercontent.com/74258853/120633696-3f378200-c48c-11eb-8dd3-e85df8dcd196.JPG)
 ![en](https://user-images.githubusercontent.com/74258853/120633713-4494cc80-c48c-11eb-9921-b72892857483.JPG)
-![er](https://user-images.githubusercontent.com/74258853/120633727-48c0ea00-c48c-11eb-9f8f-bda9cb676dab.JPG)
+![er](https://user-images.githubusercontent.com/74258853/120634060-a81efa00-c48c-11eb-9172-89d1163c930f.JPG)
+
 
 
 
